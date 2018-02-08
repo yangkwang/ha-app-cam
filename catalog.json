@@ -1,0 +1,6 @@
+{
+   "name": "High Available App with Elastic Load Balancer in AWS",
+   "description": "Deploys four instances, two in each availability zone, which are load balanced by a ELB in AWS",
+   "version": "1.0.0.0"
+}
+
